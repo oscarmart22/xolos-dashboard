@@ -1,0 +1,2 @@
+id_sesion,fecha,semana,tipo_sesion,duracion_min,id_jugador,posicion,distancia_total_m,velocidad_prom_kmh,velocidad_max_kmh,dist_alta_int_m,acel_alta_n,desacel_alta_n,ang_rodilla_izq,ang_rodilla_der,asim_rodilla_pct,confianza_pose
+S01,2025-09-02,1,Física,80,J01,Mediocampista,8634,6.48,32.6,881,34,28,141.42,150.00,5.9,0.85
